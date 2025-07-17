@@ -15,5 +15,5 @@ Welcome to this private, hands-on workshop led by MathWorks experts. Throughout 
 - Additional Resources for continued learning
 
 ## Files
-- PowerPoint file
-- Code Folder (contains .mlx for the exercises)
+- PowerPoint file ("PST Workshop")
+- Code Folder (contains .mlx files for the exercises)
